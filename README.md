@@ -15,4 +15,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siyazoff&theme=github_dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyazoff&theme=github_dark&layout=compact)](https://github.com/siyazoff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyazoff&theme=github_dark&layout=compact)]
