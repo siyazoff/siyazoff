@@ -11,8 +11,19 @@
 ## 📩 Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-071328?style=for-the-badge&logo=telegram)](https://t.me/siyazoff)
 
-## 📊 GitHub Analytics:
+
+<details>
+<summary> 📊 GitHub Analytics:</summary>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siyazoff&theme=github_dark&show_icons=true)
 
+<br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyazoff&theme=github_dark&layout=compact)
+</details>
+
+<!-- ## 📊 GitHub Analytics: -->
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siyazoff&theme=github_dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyazoff&theme=github_dark&layout=compact) -->
